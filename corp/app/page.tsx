@@ -5,9 +5,7 @@ export default function Home() {
   return (
     <div>
     <div>
-      <Link href="/performance">Performance</Link>
-      <Link href="/reliabilty">Reliability</Link>
-      <Link href="/scale">Scale</Link>
+      
     </div>
         Home Page
     </div>
